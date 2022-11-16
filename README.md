@@ -13,7 +13,7 @@ number of co-occurrence of defects and price increase with the increase in the n
 defects. As a defect is detected, the production process is stopped and the details about the 
 occurred defect are recorded with its location by the machine operator. 
 Main drawbacks associated during manual inspections are as follows: 
-1) training of individuals is required to make them fabric inspector.
+1) Training of individuals is required to make them fabric inspector.
 2) major defects can be detected while small defects can be ignored due to 
 human carelessness.
 3) lot of human effort is required to locate fabric defects.
